@@ -1,1 +1,3 @@
 boss,lzhu88,Zhu,Lingfeng
+employee,NetID,LastName,FirstName
+employee,ryin26,Ruochen,Yin
